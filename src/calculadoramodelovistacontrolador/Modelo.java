@@ -10,5 +10,8 @@ package calculadoramodelovistacontrolador;
  * @author Lolo
  */
 public class Modelo {
-    
+
+    public Modelo(Controlador c) {
+        
+    }
 }
